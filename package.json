@@ -5,7 +5,7 @@
   "version": "0.0.2",
   "dependencies": {
         "cli-progress": "^3.0.0",
-        "odrive": "^0.0.2"
+        "odrive": "^0.0.3"
     },
     "repository": {
     "type": "git",
