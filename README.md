@@ -3,8 +3,9 @@ A node.js tool for [Odrive](https://odriverobotics.com/).
 
 The project relies heavely on a few core modules:
 + [odrive](https://github.com/PrimeEuler/odrive) - Object mashaling via the `Fibre` protocol.
-+ [@primeeuler/fibre](https://github.com/PrimeEuler/fibre) - JavaScript port od the `Fibre` protocol.
++ [@primeeuler/fibre](https://github.com/PrimeEuler/fibre) - JavaScript port of the `Fibre` protocol.
 + [repl](https://nodejs.org/api/repl.html) - Interactive shell to interface with `Odrive`.
+
 Example: `>odrive.unmarshal(odrv0)`
 ```javascript
 { vbus_voltage: 15.904614448547363,
