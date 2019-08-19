@@ -11,6 +11,6 @@
     "type": "git",
     "url": "https://github.com/PrimeEuler/odrivetool.git"
    },
-   "keywords": [ "Fibre", "Odrive", "RPC", "mashalling" ],
+   "keywords": [ "Fibre", "Odrive", "RPC", "marshalling" ],
    "license": "MIT"
 }
