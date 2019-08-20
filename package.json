@@ -2,10 +2,10 @@
   "name": "odrivetool",
   "description": "Odrive cli tool.",
   "author": "Jeremy Ebert",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "dependencies": {
         "cli-progress": "^3.0.0",
-        "odrive": "^0.0.3"
+        "odrive": "^0.0.4"
     },
     "repository": {
     "type": "git",
