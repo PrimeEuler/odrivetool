@@ -34,11 +34,11 @@ shell.context.odrive.on('remoteObject',function(object){
     
 })
 shell.context.odrive.fibre.on('connect',function(object){
-    PRINT('Fibre connected to ODrive on USB.')
+    //PRINT('Fibre connected to ODrive on USB.')
 })
 shell.context.odrive.fibre.on('error',PRINT)
 shell.context.odrive.fibre.on('payload.start',function(length){
-
+    PRINT('Fibre connected to ODrive on USB.')
     var b2 = new _progress.Bar({
         barCompleteChar: '#',
         barIncompleteChar: '_',
