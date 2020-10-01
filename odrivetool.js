@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 var odrive      = require('odrive');
 var repl        = require('repl');
 var util        = require('util');
